@@ -1,0 +1,11 @@
+cell_id,cell_type,sample,nCount_RNA,nFeature_RNA,percent_mt
+Cell1,T_cell,S1,5200,1800,4.5
+Cell2,B_cell,S1,4300,1500,3.2
+Cell3,Monocyte,S2,6100,2100,8.1
+Cell4,T_cell,S2,3900,1400,5.0
+Cell5,B_cell,S2,4700,1600,2.8
+Cell6,Monocyte,S1,6800,2300,9.4
+Cell7,T_cell,S1,5400,1750,4.1
+Cell8,B_cell,S2,4100,1450,3.0
+Cell9,Monocyte,S2,7000,2400,8.7
+Cell10,T_cell,S1,5600,1850,4.8
