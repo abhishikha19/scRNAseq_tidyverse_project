@@ -59,4 +59,4 @@ install.packages(c("tidyverse", "janitor"))
 - Extend to differential expression analysis
 
 ## Author
-Abhishikha Sharma
+Dr. Abhishikha Sharma
